@@ -1,4 +1,4 @@
-package brickbreacker;
+package brickBreacker;
 
 //weak man blames his future
 import javax.swing.JFrame;
@@ -6,7 +6,7 @@ public class Brick {
     public static void main(String[] args) {
         JFrame obj = new JFrame();
         obj.pack();
-        brickBreacker.Gameplay gameplay = new Gameplay();
+        brickBreacker.Gameplay gameplay = new brickBreacker.Gameplay();
         obj.setBounds(10,10,800,600);
         obj.setTitle("Breakout Ball");
         obj.setResizable(false);
@@ -20,4 +20,3 @@ public class Brick {
 
     }
 }
-
