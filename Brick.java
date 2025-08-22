@@ -1,4 +1,4 @@
-package brickBreacker;
+package brickbreacker;
 
 //weak man blames his future
 import javax.swing.JFrame;
@@ -20,3 +20,4 @@ public class Brick {
 
     }
 }
+
