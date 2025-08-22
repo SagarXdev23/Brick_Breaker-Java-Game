@@ -38,8 +38,7 @@ Java AWT – for graphics, rendering, and event handling
 
 Clone this repository:
 
-git clone https://github.com/your-username/brick-breaker.git
-
+git clone https://github.com/SagarXdev23/Brick_Breaker-Java-Game
 
 Open the project in your IDE (Eclipse, IntelliJ, VS Code with Java extension).
 
