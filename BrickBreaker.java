@@ -37,7 +37,7 @@ class Gameplay extends JPanel implements KeyListener, ActionListener {
         timer.start();
 
         // Load the background image
-        backgroundImage = Toolkit.getDefaultToolkit().getImage(getClass().getResource("/resources/image.jpg")); // Adjust path as necessary
+        backgroundImage = Toolkit.getDefaultToolkit().getImage(getClass().getResource("image.jpg")); // Adjust path as necessary
     }
 
     public void paint(Graphics g) {
